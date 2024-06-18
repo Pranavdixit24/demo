@@ -12,4 +12,8 @@ multiply =(a,b)=>{
 }
 
 
+sub =(a,b){
+    console.log(a-b);
+}
+
 
